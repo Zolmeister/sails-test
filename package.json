@@ -4,7 +4,7 @@
     "version": "0.0.0",
     "description": "a Sails application",
     "dependencies": {
-        "sails": "https://github.com/balderdashy/sails.git#0.9",
+        "sails": "git://github.com/balderdashy/sails.git#0.9",
         "grunt": "0.4.1",
         "optimist": "0.3.4"
     },
